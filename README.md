@@ -1,12 +1,12 @@
 # Java EE Login App (Servlets + JSP + JDBC)
-A simple Java EE web application demonstrating **user authentication** using **Servlets**, **JSP**, and **JDBC** with a MySQL database.
+a simple Java EE web application demonstrating **user authentication** using **Servlets**, **JSP**, and **JDBC** with a MySQL database.
 ### features
-1. User Registration and Login<br>
-2. Session Management<br>
-3. Input Validation (Server-side)<br>
-4. MVC Architecture (Servlets as Controllers, JSP as Views)<br>
-5. MySQL Database Connectivity using JDBC<br>
-6. Deployed on Apache Tomcat 10.0
+user Registration and Login<br>
+session Management<br>
+input Validation (Server-side)<br>
+MVC Architecture (Servlets as Controllers, JSP as Views)<br>
+mySql Database Connectivity using JDBC<br>
+deployed on Apache Tomcat 10.0
 ### tech stack
 language - Java (JDK 17+ [25])
 <br>
