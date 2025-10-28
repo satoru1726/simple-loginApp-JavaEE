@@ -1,41 +1,40 @@
-# ---- Java & Eclipse ----
+#Java & Eclipse
 *.class
 *.jar
 *.war
 *.ear
 *.log
 
-# Eclipse project files
+#Eclipse project files
 .classpath
 .project
 .settings/
 
-# ---- Build directories ----
+#Build directories
 bin/
 target/
 build/
 
-# ---- Tomcat & Servers ----
+#Tomcat & Servers
 Servers/
 *.tmp
 *.bak
 *.swp
 
-# ---- OS generated files ----
+#OS generated files
 .DS_Store
 Thumbs.db
 
-# ---- IDE files ----
+#IDE files
 .idea/
 .vscode/
-.settings/
 
-# ---- Maven & Gradle ----
+#Maven & Gradle
 .mvn/
 .gradle/
 !gradle/wrapper/gradle-wrapper.jar
 
-# ---- Misc ----
+#Misc
 *.iml
 *.prefs
 *.orig
