@@ -1,12 +1,12 @@
 # Java EE Login App (Servlets + JSP + JDBC)
 a simple Java EE web application demonstrating **user authentication** using **Servlets**, **JSP**, and **JDBC** with a MySQL database.
 ### features
-user Registration and Login<br>
-session Management<br>
-input Validation (Server-side)<br>
-MVC Architecture (Servlets as Controllers, JSP as Views)<br>
-mySql Database Connectivity using JDBC<br>
-deployed on Apache Tomcat 10.0
+-user Registration and Login<br>
+-session Management<br>
+-input Validation (Server-side)<br>
+-MVC Architecture (Servlets as Controllers, JSP as Views)<br>
+-mySql Database Connectivity using JDBC<br>
+-deployed on Apache Tomcat 10.0
 ### tech stack
 language - Java (JDK 17+ [25])
 <br>
@@ -23,10 +23,10 @@ git clone https://github.com/satoru1726/JavaEE-LoginApp.git
 #### 2. import into eclipse IDE
 Open Eclipse → File → Import → Existing Projects into Workspace <br> Select this folder and finish.
 #### 3. configure database
--- create a MySQL database (e.g. userdb)
-<br> -- run the provided SQL script in /sql/ 
-<br> -- update file [.java] with your DB credentials.
-<br> -- create a MySQL database by running the SQL script:
+- create a MySQL database (e.g. userdb)
+<br> - run the provided SQL script in /sql/ 
+<br> - update file [.java] with your DB credentials.
+<br> - create a MySQL database by running the SQL script:
 ``` bash
 mysql -u root -p < sql/userdb.sql
 ```
