@@ -1,28 +1,28 @@
 # Java EE Login App (Servlets + JSP + JDBC)
 A simple Java EE web application demonstrating **user authentication** using **Servlets**, **JSP**, and **JDBC** with a MySQL database.
-### Features
-- User Registration and Login
-- Session Management
-- Input Validation (Server-side)
-- MVC Architecture (Servlets as Controllers, JSP as Views)
-- MySQL Database Connectivity using JDBC
-- Deployed on Apache Tomcat 10.0
-### Tech stack
-Language - Java (JDK 17+ [25])
+### features
+1. User Registration and Login<br>
+2. Session Management<br>
+3. Input Validation (Server-side)<br>
+4. MVC Architecture (Servlets as Controllers, JSP as Views)<br>
+5. MySQL Database Connectivity using JDBC<br>
+6. Deployed on Apache Tomcat 10.0
+### tech stack
+language - Java (JDK 17+ [25])
 <br>
-Web Framework - Servlet & JSP (Jakarta EE)
+web Framework - Servlet & JSP (Jakarta EE)
 <br> 
-Database - MySQL 
+database - MySQL 
 <br> 
-Server - Apache Tomcat 10.0
+server - Apache Tomcat 10.0
 <br> 
 IDE - Eclipse IDE for Enterprise Java Developers
-### Setup Instructions
-##### 1. clone the repository
+### setup instructions
+#### 1. clone the repository
 git clone https://github.com/satoru1726/JavaEE-LoginApp.git 
-##### 2. import into eclipse IDE
+#### 2. import into eclipse IDE
 Open Eclipse → File → Import → Existing Projects into Workspace <br> Select this folder and finish.
-##### 3. configure database
+#### 3. configure database
 -- create a MySQL database (e.g. userdb)
 <br> -- run the provided SQL script in /sql/ 
 <br> -- update file [.java] with your DB credentials.
@@ -30,13 +30,17 @@ Open Eclipse → File → Import → Existing Projects into Workspace <br> Selec
 ``` bash
 mysql -u root -p < sql/userdb.sql
 ```
-##### 4. run on tomcat
+#### 4. run on tomcat
 add project to Apache Tomcat server
 start the server
 Visit: http://localhost:8080/JavaEE-LoginApp
-### Author
-Jayanth A R 
+### author
+•𝗥𝗬ō𝗜𝗞𝗜 𝗧𝗘𝗡𝗞ā𝗜•
 <br>
 Aspiring Full Stack Dev.
-### License
-This project is open-source and available under the MIT License.
+<br>
+mail: zeninmakisan2025@gmail.com
+<br>
+LinkedIn: www.linkedin.com/in/jayanth-a-r-254232323 
+### license
+this project is open-source and available under the MIT License.
