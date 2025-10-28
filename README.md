@@ -27,7 +27,8 @@ Create a MySQL database (e.g. userdb)
 <br> Run the provided SQL script in /sql/ 
 <br> Update file [.java] with your DB credentials.
 <br> Create a MySQL database by running the SQL script:
-``` bash mysql -u root -p < sql/userdb.sql
+``` bash
+mysql -u root -p < sql/userdb.sql
 ```
 ##### 4. Run on Tomcat
 Add project to Apache Tomcat server
