@@ -18,28 +18,23 @@ Server - Apache Tomcat 10.0
 <br> 
 IDE - Eclipse IDE for Enterprise Java Developers
 ### Setup Instructions
-#### 1. Clone the Repository
+##### 1. Clone the Repository
 git clone https://github.com/satoru1726/JavaEE-LoginApp.git 
-<br>
-#### 2. Import into Eclipse
-Open Eclipse → File → Import → Existing Projects into Workspace
-Select this folder and finish.
-<br>
-#### 3. Configure Database
+##### 2. Import into Eclipse IDE
+Open Eclipse → File → Import → Existing Projects into Workspace <br> Select this folder and finish.
+##### 3. Configure Database
 Create a MySQL database (e.g. userdb)
-Run the provided SQL script in /sql/ 
-Update DBConnection.java with your DB credentials.
-Create a MySQL database by running the SQL script:
+<br> Run the provided SQL script in /sql/ 
+<br> Update DBConnection.java with your DB credentials.
+<br> Create a MySQL database by running the SQL script:
 mysql -u root -p < sql/userdb.sql
-Update DBConnection.java with your MySQL username and password.
-<br>
-#### 4. Run on Tomcat
+##### 4. Run on Tomcat
 Add project to Apache Tomcat server
 Start the server
 Visit: http://localhost:8080/JavaEE-LoginApp
-#### Author
+### Author
 Jayanth A R 
 <br>
 Aspiring Full Stack Dev.
-#### License
+### License
 This project is open-source and available under the MIT License.
