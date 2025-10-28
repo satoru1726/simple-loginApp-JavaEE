@@ -34,13 +34,13 @@ mysql -u root -p < sql/userdb.sql
 add project to Apache Tomcat server
 start the server
 Visit: http://localhost:8080/JavaEE-LoginApp
-### author
+### author info.
 •𝗥𝗬ō𝗜𝗞𝗜 𝗧𝗘𝗡𝗞ā𝗜•
 <br>
-Aspiring Full Stack Dev.
+aspiring Full Stack Dev.
 <br>
 mail: zeninmakisan2025@gmail.com
 <br>
-LinkedIn: www.linkedin.com/in/jayanth-a-r-254232323 
-### license
+linkedIn: www.linkedin.com/in/jayanth-a-r-254232323 
+### license info.
 this project is open-source and available under the MIT License.
