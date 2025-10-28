@@ -9,7 +9,7 @@ A simple Java EE web application demonstrating **user authentication** using **S
 - MySQL Database Connectivity using JDBC
 - Deployed on Apache Tomcat 10.0
 
-#####Tech Stack
+#####Tech Stack <br>
 **Language**------------------------------ _Java (JDK 17+ [25])_ <br>
 **Web Framework**------------------------------ _Servlet & JSP (Jakarta EE)_ <br> 
 **Database**------------------------------ _MySQL_ <br> 
