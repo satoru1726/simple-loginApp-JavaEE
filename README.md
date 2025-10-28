@@ -37,11 +37,9 @@ Update DBConnection.java with your MySQL username and password.
 Add project to Apache Tomcat server
 Start the server
 Visit: http://localhost:8080/JavaEE-LoginApp
-<br>
-
 #### Author
-Jayanth A R
-Aspiring Full Stack Dev.
+Jayanth A R 
 <br>
-** #### License **
+Aspiring Full Stack Dev.
+#### License
 This project is open-source and available under the MIT License.
