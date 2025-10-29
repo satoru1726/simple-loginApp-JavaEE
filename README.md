@@ -24,9 +24,9 @@ git clone https://github.com/satoru1726/JavaEE-LoginApp.git
 Open Eclipse → File → Import → Existing Projects into Workspace <br> Select this folder and finish.
 #### 3. configure database
 - create a MySQL database (e.g. userdb)
-<br> - run the provided SQL script in /sql/ 
-<br> - update file [.java] with your DB credentials.
-<br> - create a MySQL database by running the SQL script:
+- run the provided SQL script in /sql/ 
+- update file [.java] with your DB credentials.
+- create a MySQL database by running the SQL script:
 ``` bash
 mysql -u root -p < sql/userdb.sql
 ```
