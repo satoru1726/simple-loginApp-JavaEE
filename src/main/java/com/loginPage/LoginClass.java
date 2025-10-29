@@ -8,7 +8,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 import java.io.IOException;
 
-import com.loginPage.loginDAO.LoginDAOClass;
+import com.loginDAO.LoginDAOClass;
 
 @WebServlet("/loginPage")
 public class LoginClass extends HttpServlet {

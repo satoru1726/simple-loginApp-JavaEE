@@ -1,4 +1,4 @@
-package com.loginPage.loginDAO;
+package com.loginDAO;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
