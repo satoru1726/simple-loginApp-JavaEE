@@ -35,7 +35,7 @@ add project to Apache Tomcat server
 start the server
 Visit: http://localhost:8080/JavaEE-LoginApp
 ### author info.
-•𝗥𝗬ō𝗜𝗞𝗜 𝗧𝗘𝗡𝗞ā𝗜•
+•Jayanth A R•
 <br>
 aspiring Full Stack Dev.
 <br>
