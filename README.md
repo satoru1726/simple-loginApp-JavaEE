@@ -21,11 +21,10 @@ a simple Java EE web application demonstrating **user authentication** using **S
 git clone https://github.com/satoru1726/JavaEE-LoginApp.git 
 - import into eclipse IDE
 Open eclipse --> file --> import --> existing projects into Workspace --> Select this folder and finish.
-- configure database
-  -- create a MySQL database (e.g. userdb)
-  -- run the provided SQL script in /sql/
-  -- update file [.java] with your DB credentials.
-  -- create a MySQL database by running the SQL script:
+- create a MySQL database (e.g. userdb)[configure database]
+- run the provided SQL script in /sql/
+- update file [.java] with your DB credentials.
+- create a MySQL database by running the SQL script:
 ```
 mysql -u root -p < sql/userdb.sql
 ```
