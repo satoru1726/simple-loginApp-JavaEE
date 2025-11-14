@@ -17,11 +17,11 @@ a simple Java EE web application demonstrating **user authentication** using **S
 - IDE - Eclipse IDE for Enterprise Java Developers
   
 ## setup instructions
-#### 1. clone the repository
+- clone the repository
 git clone https://github.com/satoru1726/JavaEE-LoginApp.git 
-#### 2. import into eclipse IDE
-Open Eclipse → File → Import → Existing Projects into Workspace <br> Select this folder and finish.
-#### 3. configure database
+- import into eclipse IDE
+Open eclipse --> file --> import --> existing projects into Workspace --> Select this folder and finish.
+- configure database
 - create a MySQL database (e.g. userdb)
 - run the provided SQL script in /sql/
 - update file [.java] with your DB credentials.
@@ -29,9 +29,10 @@ Open Eclipse → File → Import → Existing Projects into Workspace <br> Selec
 ``` bash
 mysql -u root -p < sql/userdb.sql
 ```
-#### 4. run on tomcat
+- run on tomcat
 - add project to Apache Tomcat server
-- start the server -- visit: http://localhost:8080/JavaEE-LoginApp
+- start the server
+- visit: http://localhost:8080/JavaEE-LoginApp
   
 ## author info.
 **_Jayanth A R_**
