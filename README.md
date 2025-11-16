@@ -38,9 +38,9 @@ mysql -u root -p < sql/userdb.sql
 <br>
 aspiring Full Stack Dev.
 <br>
-mail: <jayanthcrpar@gmail.com>
+mail: jayanthcrpar@gmail.com
 <br>
-linkedIn: <www.linkedin.com/in/jayanth-a-r-254232323>
+linkedIn: www.linkedin.com/in/jayanth-a-r-254232323
 
 ## license info.
 this project is open-source and available under the MIT License.
