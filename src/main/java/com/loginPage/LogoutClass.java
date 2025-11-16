@@ -16,7 +16,7 @@ public class LogoutClass extends HttpServlet {
 		HttpSession session = request.getSession();
 		session.removeAttribute("uName");
 		session.removeAttribute("pass");
-		session.invalidate(); // it will clean the session - removes all stored data inside the session.
+		session.invalidate();
 	    response.sendRedirect("loginPage.jsp");
 	}
 }
